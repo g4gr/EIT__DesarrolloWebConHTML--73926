@@ -1,0 +1,356 @@
+09:54:39 De Instructor :: Gaby a Asistente Académica - Juana Paz(mensaje directo):
+	Hola Juana, buen dia!	Espero estes muy bien y gracias de antemano por el soporte en la clase de hoy!
+09:54:48 De Instructor :: Gaby a Asistente Académica - Juana Paz(mensaje directo):
+	Cuando puedas, me asignas el co-host ?
+09:57:27 De Asistente Académica - Juana Paz a Instructor :: Gaby(mensaje directo):
+	Hola profe, buen inicio de semana! :)
+09:57:35 De Asistente Académica - Juana Paz a Instructor :: Gaby(mensaje directo):
+	Ahi te pasé los permisos correspondientes
+09:57:42 De Asistente Académica - Juana Paz a Instructor :: Gaby(mensaje directo):
+	Quedo atenta por si necesitan algo
+09:57:47 De Asistente Académica - Juana Paz a Instructor :: Gaby(mensaje directo):
+	Que tengan una linda jornada hoy :)
+09:57:59 De Manuel Perez a Todos:
+	Buenas!
+09:58:42 De RODRIGO a Todos:
+	Hola, buenos días.
+09:58:50 De Instructor :: Gaby a Todos:
+	Reacted to "Buenas!" with 🖖
+09:58:53 De Instructor :: Gaby a Todos:
+	Reacted to "Hola, buenos días." with 🖐
+09:59:02 De Instructor :: Gaby a Asistente Académica - Juana Paz(mensaje directo):
+	Reacted to "Ahi te pasé los perm..." with 👍
+09:59:07 De Instructor :: Gaby a Asistente Académica - Juana Paz(mensaje directo):
+	Reacted to "Que tengan una linda..." with 💙
+10:00:12 De RODRIGO a Todos:
+	Les hago una consulta.
+10:00:28 De Daniela Rinaldi-1018527 a Todos:
+	hola buenos días a todos mse arranca el lunes con ganas de aprender cosas nuevas
+10:00:44 De Instructor :: Gaby a Todos:
+	Hola, buen día!	Como están ?		Arrancamos en 5 min.
+10:00:49 De Instructor :: Gaby a Todos:
+	Reacted to "hola buenos días a t..." with 💙
+10:01:02 De RODRIGO a Todos:
+	Alguno ya estuvo interactuando con el programa visual estudio ?
+10:01:11 De Daniela Rinaldi-1018527 a Todos:
+	si yo
+10:01:24 De Rodrigo Cangas a Todos:
+	yo igual
+10:01:38 De Rosario Paredes-986824 a Todos:
+	Buenas!
+10:02:07 De RODRIGO a Todos:
+	Espectacular gracias
+10:06:36 De Instructor :: Gaby a Todos:
+	ARRANCAMOS ?
+10:06:47 De RODRIGO a Todos:
+	Si..
+10:06:48 De Carmela Mazars-1031617 a Todos:
+	Reacted to "ARRANCAMOS ?" with 👍🏽
+10:07:08 De Thomas Pereira-966851 a Todos:
+	Buenas, buen dia
+10:07:11 De Lucas Hernan Blas-1032965 a Todos:
+	hola buen dia!
+10:07:14 De Manuel Perez a Todos:
+	Buenas!
+10:07:15 De Carmela Mazars-1031617 a Todos:
+	Buen dia
+10:07:21 De Agustina Martinez Flecher-1018469 a Todos:
+	buenas buenas
+10:07:23 De Rosario Paredes-986824 a Todos:
+	Buen día
+10:07:24 De Yanina Spinelli a Todos:
+	Buen dia!! :)
+10:07:34 De Santiago Suazo a Todos:
+	buen dia
+10:07:35 De RODRIGO a Todos:
+	Estoy si micrófono, asique mando consultas y respuestas por aca.
+10:07:46 De Cassandra Rodriques-1030828 a Todos:
+	Buenas 😊
+10:08:11 De Jesica Iriarte - 1032110 a Todos:
+	Buenas a todos...
+10:08:12 De Daniela Rinaldi-1018527 a Todos:
+	ya también no tengo mic asi que consulto por aca
+10:17:55 De Adrian Iskow-1025093 a Todos:
+	Diseño empatico
+10:20:38 De Manuel Perez a Todos:
+	¿Si o si hay que dejar el espacio antes de cerrarlas con el ">"?
+10:20:45 De Instructor :: Gaby a Todos:
+	Reacted to "Diseño empatico" with 💙
+10:21:16 De Manuel Perez a Todos:
+	Genial
+10:21:17 De Lucas Hernan Blas-1032965 a Todos:
+	hay alguna manera de recordar el tipo de etiqueta de autocierre? acorde a la function o algo asi?
+10:21:37 De Agustina Martinez Flecher-1018469 a Todos:
+	el slash debe estar al inicio o al final?
+10:22:08 De Manuel Perez a Todos:
+	Ah, genial. Esta información vale millones.
+10:22:24 De Instructor :: Gaby a Todos:
+	Replying to "el slash debe estar ..."
+	
+	Depende!
+10:24:02 De Instructor :: Gaby a Todos:
+	Reacted to "Ah, genial. Esta inf..." with 💙
+10:25:12 De Instructor :: Gaby a Todos:
+	Documentacion de referencia > HTML: Lenguaje de etiquetas de hipertexto | MDN (mozilla.org)
+10:25:43 De Instructor :: Gaby a Todos:
+	Dev Docs > DevDocs API Documentation
+10:26:07 De Lucas Hernan Blas-1032965 a Todos:
+	son como w3schools esas?
+10:26:41 De Instructor :: Gaby a Todos:
+	Replying to "son como w3schools e..."
+	
+	Maso….
+10:27:37 De Lucas Hernan Blas-1032965 a Todos:
+	genial, gracias!
+10:27:43 De Instructor :: Gaby a Todos:
+	Reacted to "genial, gracias!" with 👍
+10:34:32 De Santiago Suazo a Todos:
+	como lo abrio _
+10:34:34 De Santiago Suazo a Todos:
+	?
+10:35:13 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Si, yo tampoco entendí como lo abrió. Creo que el mismo programa te lo abre a un costado pero no recuerdo como es
+10:35:32 De Santiago Suazo a Todos:
+	la pagina q hicimos
+10:35:35 De Santiago Suazo a Todos:
+	digo
+10:35:54 De Instructor :: Gaby a Todos:
+	CTRL + O
+10:36:32 De Santiago Suazo a Todos:
+	listo gracias
+10:36:47 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Gracias
+10:37:39 De Adrian Iskow-1025093 a Todos:
+	Y si no abrilo con chrome
+10:37:57 De Adrian Iskow-1025093 a Todos:
+	ah ok
+10:42:11 De Adrian Iskow-1025093 a Todos:
+	es como doble trabajo
+10:42:37 De Lucas Hernan Blas-1032965 a Todos:
+	header y banner serian similares en function?
+10:43:28 De Instructor :: Gaby a Todos:
+	Replying to "header y banner seri..."
+	
+	Header es una etiqueta HTML y banner es un rol… osea, una propiedad del Header
+10:48:36 De Adrian Iskow-1025093 a Todos:
+	Replying to "header y banner seri..."
+	
+	ok
+10:48:44 De Agustina Martinez Flecher-1018469 a Todos:
+	entiendo, pero no me queda claro qué es el div, o sea ess una copia para contener y amplificar la información?
+10:58:16 De Lucas Hernan Blas-1032965 a Todos:
+	gracias
+11:00:06 De Santiago Suazo a Todos:
+	el div seria para guardar otras etiquetas entonces _
+11:00:12 De Santiago Suazo a Todos:
+	?
+11:01:16 De Santiago Suazo a Todos:
+	y esas etiquetas funcionarian si no se pone el div o el div hace q sean funcionales
+11:01:27 De RODRIGO a Todos:
+	el div es para darle un orden a las etiquetas ? o solo para contener ?
+11:05:25 De Adrian Iskow-1025093 a Todos:
+	eso te lo muestra la identacion no'
+11:05:35 De Daniela Rinaldi-1018527 a Todos:
+	ese espacio lo das vos?
+11:06:29 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Uno tiene que estar pendiente que etiqueta anida a otra o eso te lo arma directamente el programa?
+11:06:50 De Instructor :: Gaby a Todos:
+	Replying to "ese espacio lo das v..."
+	
+	Si, usando la configuracion de VSCode
+11:07:22 De Instructor :: Gaby a Todos:
+	Replying to "Uno tiene que estar ..."
+	
+	No, tenemos que estar pendiente nosotros de que escribimos/anidamos/usamos
+11:07:36 De Daniela Rinaldi-1018527 a Todos:
+	si
+11:07:54 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Vale gracias
+11:08:08 De Lucas Hernan Blas-1032965 a Todos:
+	funciona de todas formas el codigo por mas que no esté indentado? (identado)
+11:08:13 De Lucas Hernan Blas-1032965 a Todos:
+	o identado*
+11:09:09 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Si uno coloca una etiqueta donde no va, te salta en rojo o no te das cuenta donde esta mal el código?
+11:09:35 De Instructor :: Gaby a Todos:
+	Replying to "Si uno coloca una et..."
+	
+	Si y no.	En el caso de HTML, no
+11:09:49 De Santiago Suazo a Todos:
+	yo no
+11:09:53 De Santiago Suazo a Todos:
+	me lo explicass porfa
+11:09:58 De Santiago Suazo a Todos:
+	me perdi
+11:10:41 De Santiago Suazo a Todos:
+	ahh sisi
+11:11:02 De Santiago Suazo a Todos:
+	eso lo entendí ssolo q no sabia q se llamada asi
+11:11:10 De Santiago Suazo a Todos:
+	graciass
+11:14:00 De Adrian Iskow-1025093 a Todos:
+	ejes c artesianos
+11:15:20 De Adrian Iskow-1025093 a Todos:
+	las coordenadas (0,0)
+11:15:37 De Santiago Suazo a Todos:
+	y eso se puede mover dándole una cordenada ?
+11:16:48 De Instructor :: Gaby a Todos:
+	Reacted to "ejes c artesianos" with 💙
+11:17:04 De Instructor :: Gaby a Todos:
+	Replying to "y eso se puede mover..."
+	
+	Depende… 😂
+11:17:14 De Lucas Hernan Blas-1032965 a Todos:
+	Reacted to "Depende… 😂" with 😂
+11:18:28 De Lucas Hernan Blas-1032965 a Todos:
+	hace unos dias descubri que  no dice nada el Lorem, son palabras random en latin
+11:18:40 De Instructor :: Gaby a Todos:
+	Reacted to "hace unos dias descu..." with 😂
+11:23:34 De Adrian Iskow-1025093 a Todos:
+	En vivo so algo puede falla, va a fallar!
+11:23:52 De Yanina Spinelli a Todos:
+	Se ha reaccionado a "En vivo so algo pu..." con 😂
+11:23:56 De Adrian Iskow-1025093 a Todos:
+	Reacted to "En vivo so algo pued..." with 😂
+11:24:07 De Instructor :: Gaby a Todos:
+	Reacted to "En vivo so algo pued..." with 😂
+11:26:26 De Daniela Rinaldi-1018527 a Todos:
+	como una autocorrecion del  editor
+11:26:35 De Lucas Hernan Blas-1032965 a Todos:
+	no se supone que si el codigo esta "roto" no deberia interpretarlo el navegador?
+11:27:01 De Instructor :: Gaby a Todos:
+	Replying to "como una autocorreci..."
+	
+	EXACTAMENTE!
+11:27:15 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Claro no te dice donde te equivocaste sino que el mismo te corrigió en silencio.
+11:27:44 De Lucas Hernan Blas-1032965 a Todos:
+	Reacted to "Claro no te dice don..." with 👍
+11:28:28 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Y cuando te salta el error ? Cuando no seguimos una regla ?
+11:29:02 De Santiago Suazo a Todos:
+	ósea q quiso corregir algo q estaba bien ?
+11:29:47 De Santiago Suazo a Todos:
+	o si estaba mal el código ?
+11:30:29 De Instructor :: Gaby a Todos:
+	Replying to "Y cuando te salta el..."
+	
+	Depende...
+11:30:38 De Instructor :: Gaby a Todos:
+	Replying to "ósea q quiso corregi..."
+	
+	Si, eso es cierto
+11:30:41 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	jajajjaajja tranqui no hay problema
+11:30:54 De Instructor :: Gaby a Todos:
+	Replying to "o si estaba mal el c..."
+	
+	Depende...
+11:37:47 De Lucas Hernan Blas-1032965 a Todos:
+	gracias, si!
+11:48:20 De Lucas Hernan Blas-1032965 a Todos:
+	pero en esa el menu lo tenes en el footer, tiene igual jerarquia ?
+11:49:36 De Santiago Suazo a Todos:
+	ósea que el menu del footer es el de abajo ? y el del header el de arriba ?
+11:50:35 De RODRIGO a Todos:
+	en el caso de la etiqueta NAV solo la podemos agregar en el Header? o la podemos agregar en las otras etiquetas?
+11:55:20 De Adrian Iskow-1025093 a Todos:
+	Gaby comparto el link a un grupo de WhatsApp que es para ayudarnos y estar en contacto durante este curso u otros mas, el que quiere se puede sumar sin problema	https://chat.whatsapp.com/Chs8QgifFYFG10PVush51j
+11:55:49 De Adrian Iskow-1025093 a Todos:
+	no hay problema
+11:55:50 De Agustina Martinez Flecher-1018469 a Todos:
+	Reacted to "Gaby comparto el lin..." with 👏
+11:56:21 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Reacted to "Gaby comparto el lin..." with 👍
+11:56:27 De Adrian Iskow-1025093 a Todos:
+	si surgen cosas asi
+11:58:56 De Lucas Hernan Blas-1032965 a Todos:
+	emet es ? que pusiste al principio "html:5" y armó todo el codigo ?
+11:59:36 De Instructor :: Gaby a Todos:
+	Replying to "emet es ? que pusist..."
+	
+	EMMET es una herramienta para escribir codigo HTML, CSS y JS mas rapido
+11:59:48 De Lucas Hernan Blas-1032965 a Todos:
+	y asi haces anidados? ej header>menu>nav ?
+12:00:01 De Lucas Hernan Blas-1032965 a Todos:
+	Reacted to "EMMET es una herrami..." with ❤️
+12:00:05 De Instructor :: Gaby a Todos:
+	Replying to "emet es ? que pusist..."
+	
+	Asi es, lo utilizamos la primera vez para escribir la estructura basica de HTML `html:5`
+12:00:13 De Instructor :: Gaby a Todos:
+	Reacted to "y asi haces anidados..." with 💙
+12:00:34 De Instructor :: Gaby a Todos:
+	header>nav>(menu>li*3)+button
+12:00:40 De Lucas Hernan Blas-1032965 a Todos:
+	Reacted to "header>nav>menu>li*3" with ❤️
+12:00:44 De Instructor :: Gaby a Todos:
+	Replying to "y asi haces anidados..."
+	
+	<header>	        <nav>	            <menu>	                <li></li>	                <li></li>	                <li></li>	            </menu>	            <button></button>	        </nav>	    </header>
+12:00:46 De Lucas Hernan Blas-1032965 a Todos:
+	ahhhhh multiplica
+12:00:49 De Lucas Hernan Blas-1032965 a Todos:
+	es excelente
+12:00:55 De Lucas Hernan Blas-1032965 a Todos:
+	eso es java?
+12:01:00 De Adrian Iskow-1025093 a Todos:
+	nop
+12:01:11 De Adrian Iskow-1025093 a Todos:
+	y ojo que java no es javascript
+12:01:26 De Lucas Hernan Blas-1032965 a Todos:
+	me referia a JavaScript jajja
+12:01:33 De Instructor :: Gaby a Todos:
+	Replying to "eso es java?"
+	
+	Nop
+12:01:35 De Lucas Hernan Blas-1032965 a Todos:
+	pero no es tampoco(?
+12:01:38 De Instructor :: Gaby a Todos:
+	Reacted to "y ojo que java no es..." with 💙
+12:02:11 De Lucas Hernan Blas-1032965 a Todos:
+	excelente
+12:02:12 De RODRIGO a Todos:
+	sis
+12:02:12 De Rodrigo Cangas a Todos:
+	si todo bien
+12:02:51 De RODRIGO a Todos:
+	con respecto al proyecto, lo podemos ir realizando ?
+12:03:53 De RODRIGO a Todos:
+	espectacular
+12:05:05 De Santiago Suazo a Todos:
+	y con lo que vimos ya podemos ir haciendo algo del proyecto ?
+12:05:11 De Santiago Suazo a Todos:
+	porq siento q no voy a poder
+12:06:12 De Agustina Martinez Flecher-1018469 a Todos:
+	Buena semana!! Me tengo que ir yendo! Nos vemosss
+12:06:22 De Thomas Pereira-966851 a Todos:
+	Buena semana, nos vemos!
+12:06:24 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Tranqui santi, lo haremos bien todos.
+12:06:27 De Lucas Hernan Blas-1032965 a Todos:
+	abrazo, hasta la proxima!
+12:06:32 De Rodrigo Cangas a Todos:
+	gracias y excelente dia a todos
+12:06:32 De Adrian Iskow-1025093 a Todos:
+	buena semana para todos1
+12:06:34 De Jesica Iriarte - 1032110 a Todos:
+	Cahuu graciasss
+12:06:34 De Cassandra Rodriques-1030828 a Todos:
+	Gracias! Hasta el miércoles
+12:06:38 De RODRIGO a Todos:
+	genial buena semana para todos.
+12:06:38 De Santiago Suazo a Todos:
+	saludos
+12:06:39 De Rosario Paredes-986824 a Todos:
+	Muchas gracias profe!! Saludos
+12:07:08 De Instructor :: Gaby a Asistente Académica - Juana Paz(mensaje directo):
+	Muchas gracias Juana por el soporte en la clase de hoy!
+12:07:11 De Asistente Académica - Juana Paz a Instructor :: Gaby(mensaje directo):
+	Hasta la prox clase profe
+12:07:13 De Asistente Académica - Juana Paz a Instructor :: Gaby(mensaje directo):
+	Saludos!
+12:07:14 De Instructor :: Gaby a Asistente Académica - Juana Paz(mensaje directo):
+	Nos vemos el Miercoles!
+12:07:19 De Instructor :: Gaby a Asistente Académica - Juana Paz(mensaje directo):
+	Buen resto de jornada!
