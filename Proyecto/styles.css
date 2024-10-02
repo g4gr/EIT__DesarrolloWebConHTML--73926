@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+
+/* --- Reset --- */
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    
+    border : 1px dashed red;
+}
+
+/* --- HTML --- */
+html {}
+
+
+/* --- Body --- */
+.Body {}
+
+/* --- Header --- */
+.Header {}
+
+.Header .navbar {
+    height: 200px;
+}
+
+.Header .navbar .figure {}
+
+.Header .navbar .figure .figure__img {}
+
+.Header .navbar .menu {}
+
+.Header .navbar .menu .menu__item {}
+
+.Header .navbar .menu .menu__item .menu__item--link {}
+
+.Header .button {}
+
+
+/* --- Aside --- */
+.Aside {}
+
+
+/* --- Main --- */
+.Main {}
+
+
+/* --- Footer --- */
+.Footer {}
