@@ -1,0 +1,222 @@
+10:02:02 De Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	Hola, buen dia!	Arrancamos en 5 min.
+10:02:07 De Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	Como están ?
+10:02:49 De RODRIGO GARCIA ESPAÑA a Todos:
+	Hola, buenos días.
+10:03:30 De Instructor :: Gaby a Todos:
+	Reacted to "Hola, buenos días." with 🖐
+10:05:42 De Adrian Iskow-1025093 a Todos:
+	Buen dia para todos
+10:05:55 De Lucas Hernan Blas-1032965 a Todos:
+	Buenos diass
+10:06:44 De Instructor :: Gaby a Todos:
+	Reacted to "Buen dia para todos" with 🖖
+10:06:49 De Instructor :: Gaby a Todos:
+	Reacted to "Buenos diass" with 🖖
+10:07:41 De Manuel Perez a Todos:
+	Buenas a todos.
+10:08:02 De Instructor :: Gaby a Todos:
+	Ya arrancamos, tengo un problema con el audio
+10:08:11 De Instructor :: Gaby a Todos:
+	😒
+10:08:12 De Thomas Pereira-966851 a Todos:
+	buenas buenas
+10:09:03 De Adrian Iskow-1025093 a Todos:
+	Si puede fallar, entonces va a fallar, el riesgo de las clases en vivo jeje
+10:09:39 De Manuel Perez a Todos:
+	Falla por haber puesto muchos !important
+10:09:47 De Adrian Iskow-1025093 a Todos:
+	Reacted to "Falla por haber pues..." with 😂
+10:09:47 De Instructor :: Gaby a Todos:
+	Reacted to "Falla por haber pues..." with 😂
+10:10:21 De Manuel Perez a Todos:
+	Todo súper!
+10:10:27 De Adrian Iskow-1025093 a Todos:
+	Windows lo sabe, por eso te hace eso
+10:10:35 De Thomas Pereira-966851 a Todos:
+	Todo bien por suerte? jaja que paso?
+10:13:19 De Adrian Iskow-1025093 a Todos:
+	Bien! cuando le vamos a agregar la IA?
+10:14:34 De Manuel Perez a Todos:
+	Consulta, ¿esto aplica para el proyecto final también?
+10:16:16 De Adrian Iskow-1025093 a Todos:
+	dale cuando puedas conta como agregar
+10:16:19 De Instructor :: Gaby a Todos:
+	Replying to "Consulta, ¿esto apli..."
+	
+	Si, Sr. Manuel !
+10:16:27 De Manuel Perez a Todos:
+	Replying to "Consulta, ¿esto apli..."
+	
+	Tenkiu
+10:19:46 De Adrian Iskow-1025093 a Todos:
+	no hay que olvidares de cerrar ese puerto despues  cuando querés abrir otro, porque si no , no sabes por que no funciona y en realidad esta ocupado el puerto
+10:20:22 De Instructor :: Gaby a Todos:
+	Reacted to "Bien! cuando le vamo..." with 💙
+10:20:33 De Instructor :: Gaby a Todos:
+	Reacted to "no hay que olvidares..." with 💙
+10:28:25 De Adrian Iskow-1025093 a Todos:
+	Y por eso no te puede reemplazar
+10:28:30 De Mauricio Boetto a Todos:
+	esta evolucionando..
+10:29:17 De Mauricio Boetto a Todos:
+	próximamente Skynet..
+10:30:19 De Rodrigo Cangas a Todos:
+	entonces cual seria el resultado sin funcionara el HTML el css y el js???
+10:30:32 De Rodrigo Cangas a Todos:
+	si*
+10:31:03 De Rodrigo Cangas a Todos:
+	si funcionara la ai
+10:32:30 De Rodrigo Cangas a Todos:
+	buenisimo
+10:34:00 De RODRIGO GARCIA ESPAÑA a Todos:
+	En nuestro proyecto de CSS, nos esta mostrando que tenemos 9 errores. 	Eso es porque están sin completar ?
+10:34:10 De Adrian Iskow-1025093 a Todos:
+	si si
+10:53:21 De Rodrigo Cangas a Todos:
+	una duda en border shorthand no pusimos nada de red es correcto???
+10:53:55 De Adrian Iskow-1025093 a Todos:
+	en lugar de solid iba red creo
+10:54:55 De Manuel Perez a Todos:
+	¿Está mal escrito "margin" puede ser?
+10:55:06 De lucas blas a Todos:
+	Esos valores se dividen entre los dos ejes o lo aplica para cada parte? Ej 10px 10px (aplica 5 para cada lado o a cada lado le aplica 10px?)
+10:58:23 De Manuel Perez a Todos:
+	Perdón la ignorancia, ¿qué significa solid?
+10:58:35 De Instructor :: Gaby a Todos:
+	Reacted to "¿Está mal escrito "m..." with 👍
+10:58:48 De Instructor :: Gaby a Todos:
+	Replying to "¿Está mal escrito "m..."
+	
+	Si, ya lo modifique. Gracias!
+10:59:57 De Instructor :: Gaby a Todos:
+	Replying to "Esos valores se divi..."
+	
+	Podemos controlar:	Los valor individualmente.	Los valor por ejes ( X e Y).	Los valor de igual manera ( un solo valor para los 4 lados de la caja)
+11:00:23 De Instructor :: Gaby a Todos:
+	Replying to "Perdón la ignorancia..."
+	
+	Hace referencia al "estilo" que tiene el borde de la caja
+11:01:09 De Manuel Perez a Todos:
+	Replying to "Perdón la ignorancia..."
+	
+	Ahhh, ahí va
+11:01:17 De Manuel Perez a Todos:
+	Reacted to "Hace referencia al "..." with ❤️
+11:01:33 De Manuel Perez a Todos:
+	Replying to "Perdón la ignorancia..."
+	
+	Muchas gracias
+11:08:07 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	A que opción le das para asignar el fondo?
+11:10:13 De lucas blas a Todos:
+	Ese cropeo de tamaño máximo es moneda corriente en las páginas web? Hay algún motivo particular para eso o es mera estética?
+11:12:24 De Instructor :: Gaby a Todos:
+	Replying to "A que opción le das ..."
+	
+	background-color : [ agregar color ] ;
+11:12:27 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Gracias
+11:12:51 De Instructor :: Gaby a Todos:
+	Replying to "Ese cropeo de tamaño..."
+	
+	Si, es común y de uso diario... y hasta te diría obligatorio!
+11:13:18 De Instructor :: Gaby a Todos:
+	Replying to "Ese cropeo de tamaño..."
+	
+	El motivo accesibilidad web y por renderizado correcto en diferentes dispositivos moviles
+11:13:25 De Instructor :: Gaby a Todos:
+	Reacted to "Gracias" with 💙
+11:13:29 De lucas blas a Todos:
+	Gracias
+11:13:37 De Agustina Martinez Flecher-1018469 a Todos:
+	Reacted to "El motivo accesibili..." with 👍
+11:14:08 De Instructor :: Gaby a Todos:
+	Reacted to "Gracias " with 💙
+11:17:56 De RODRIGO GARCIA ESPAÑA a Todos:
+	El color de fondo es el aqua
+11:18:43 De Instructor :: Gaby a Todos:
+	Replying to "El color de fondo es..."
+	
+	Esta bien... pero no tan bien!		Depende...
+11:19:34 De Instructor :: Gaby a Todos:
+	Replying to "El color de fondo es..."
+	
+	Debemos controlar todo los valores de manera exacto, por eso tenemos que saber cuales es el código Hexadecimal del color... en tu caso, usaste un "alias"
+11:20:10 De RODRIGO GARCIA ESPAÑA a Todos:
+	Si se entiende..
+11:21:22 De Instructor :: Gaby a Todos:
+	Reacted to "Si se entiende.." with 👍
+11:21:25 De Rodrigo Cangas a Todos:
+	como activas el autocomplete de la ia
+11:21:40 De Adrian Iskow-1025093 a Todos:
+	que era semánticamente ? lo lei pero no recuerdo bien
+11:27:56 De Instructor :: Gaby a Todos:
+	Replying to "como activas el auto..."
+	
+	Funciona sola en este editor de código.	si estas usando VSCode busca como activar "Copilot"
+11:29:52 De RODRIGO GARCIA ESPAÑA a Todos:
+	Profe, se me desaparecieron los bordes en color rojo. 	no recuerdo como volver a activarlos, podrias mostrarme como volver a activarlos?
+11:29:53 De Adrian Iskow-1025093 a Todos:
+	ok gracias
+11:29:57 De Instructor :: Gaby a Todos:
+	Reacted to "ok gracias" with 👍
+11:30:30 De Instructor :: Gaby a Todos:
+	Replying to "Profe, se me desapar..."
+	
+	en el selector universal, tenes que poner
+11:30:44 De Instructor :: Gaby a Todos:
+	Replying to "Profe, se me desapar..."
+	
+	border : 1px dashed red ;
+11:31:26 De RODRIGO GARCIA ESPAÑA a Todos:
+	sisi eso lo tengo bien, pero me referia al navegador
+11:32:40 De Manuel Perez a Todos:
+	Una pregunta, ¿así como existe el "vh", también existe el "vw"?
+11:34:06 De Manuel Perez a Todos:
+	Genial, gracias
+11:34:14 De Instructor :: Gaby a Todos:
+	Replying to "Una pregunta, ¿así c..."
+	
+	Si Sr. Manuel, esta en lo correcto !
+11:34:19 De Instructor :: Gaby a Todos:
+	Reacted to "Genial, gracias" with 👍
+12:01:30 De Manuel Perez a Todos:
+	Una pregunta, ¿la parte de vincular la redirección de los iconos de las redes sociales tendría que ver con JavaScript?
+12:01:36 De Rodrigo Cangas a Todos:
+	todo bien
+12:01:46 De Rodrigo Cangas a Todos:
+	ahora a practicar
+12:01:54 De Manuel Perez a Todos:
+	Genial
+12:01:56 De Instructor :: Gaby a Todos:
+	Replying to "Una pregunta, ¿la pa..."
+	
+	No, pura y exclusivamente HTML
+12:02:02 De Instructor :: Gaby a Todos:
+	Reacted to "Genial" with 👍
+12:02:04 De Instructor :: Gaby a Todos:
+	Reacted to "ahora a practicar" with 💙
+12:02:06 De Zuleima Beltrán Ramirez-1029349 a Todos:
+	Todo bien
+12:03:05 De lucas blas a Todos:
+	Genial
+12:03:11 De Manuel Perez a Todos:
+	Miércoles!
+12:03:47 De Manuel Perez a Todos:
+	Súper, muchas gracias Gaby.
+12:03:48 De Adrian Iskow-1025093 a Todos:
+	chau chau
+12:04:01 De Thomas Pereira-966851 a Todos:
+	Abrazo, nos vemos!
+12:04:04 De Juana sproviero a Todos:
+	Perfecto, que tenga un lindo dia
+12:04:05 De RODRIGO GARCIA ESPAÑA a Todos:
+	Hasta el miércoles. Buena jornada
+12:04:06 De lucas blas a Todos:
+	No vemos
+12:04:09 De Rosario Paredes-986824 a Todos:
+	Chsuu
+12:04:10 De Mauricio Boetto a Todos:
+	chauuu
