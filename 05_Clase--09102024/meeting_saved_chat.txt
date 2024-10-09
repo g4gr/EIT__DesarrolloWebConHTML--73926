@@ -1,0 +1,112 @@
+09:49:20 De Gabriel Agustin Gonzalez Romero-871798 a Asistente Académica - Juana Paz(mensaje directo):
+	Hola Juana, buen dia!	Espero estes muy bien.		Gracias de antemano por tu soporte!
+09:49:37 De Gabriel Agustin Gonzalez Romero-871798 a Asistente Académica - Juana Paz(mensaje directo):
+	Cuando puedas, me pasas los permisos de co/host ?
+10:01:13 De Instructor :: Gaby a Todos:
+	Hola, buen dia!	Como estan ?
+10:01:21 De Instructor :: Gaby a Todos:
+	Arrancamos en 5 min
+10:02:24 De Mauricio Boetto-866796 a Todos:
+	👍🏻
+10:06:52 De Lucas Hernan Blas-1032965 a Todos:
+	Jajaja buenos dias
+10:06:53 De Yanina Spinelli a Todos:
+	Hola Buen día!!
+10:07:03 De Daniela Rinaldi-1018527 a Todos:
+	Buen dia profe
+10:07:17 De Daniela Rinaldi-1018527 a Todos:
+	cuando es su cumple?
+10:07:22 De Rodrigo Garcia España-1031970 a Todos:
+	Buen día a todos
+10:07:33 De Instructor :: Gaby a Todos:
+	Replying to "cuando es su cumple?"
+	
+	El 19 de Octubre
+10:08:06 De Thomas Pereira-966851 a Todos:
+	Buen diaa!
+10:11:10 De Daniela Rinaldi-1018527 a Todos:
+	voy por la unidad 1
+10:11:29 De Rodrigo Garcia España-1031970 a Todos:
+	La unidad uno ya la termine. Ahora estoy por comenzar con la dos.
+10:11:36 De Yanina Spinelli a Todos:
+	También terminé la 1
+10:11:40 De Rodrigo Cangas-1031313 a Todos:
+	estoy por terminar la 1
+10:11:55 De Rodrigo Cangas-1031313 a Todos:
+	oye una duda Gaby
+10:12:01 De Rodrigo Cangas-1031313 a Todos:
+	no he podido habalr contigo por discord
+10:12:07 De Rodrigo Cangas-1031313 a Todos:
+	no se si estoy haciendo algo mal
+10:12:46 De Rodrigo Cangas-1031313 a Todos:
+	me aparece que debo de confirmar mi correo y de ahí no pasa
+10:13:07 De Rodrigo Cangas-1031313 a Todos:
+	rodrigo cangas
+10:13:23 De Rodrigo Cangas-1031313 a Todos:
+	si quieres al final paa no perder tiempo
+10:13:41 De Instructor :: Gaby a Todos:
+	Hola @Asistente Académica - Juana Paz !	Podrias ayudar a  @Rodrigo Cangas-1031313 con Discord ?
+10:13:57 De Rodrigo Cangas-1031313 a Todos:
+	buenisimo
+10:25:51 De Rodrigo Garcia España-1031970 a Todos:
+	El id. En donde se tiene que colocar ?
+10:29:01 De Rodrigo Cangas-1031313 a Todos:
+	no va en section???
+10:33:32 De Lucas Hernan Blas-1032965 a Todos:
+	Siempre lo llamas usando un ID? Porque por ejemplo en 'x' sección vos lo tenés con una class, podrías o si o si es haciendo una ID?
+10:36:14 De Instructor :: Gaby a Todos:
+	Replying to "Siempre lo llamas us..."
+	
+	Siempre tengo que usar IDs
+10:36:23 De Lucas Hernan Blas-1032965 a Todos:
+	Reacted to Siempre tengo que us... with "👍"
+10:44:44 De Rodrigo Cangas-1031313 a Todos:
+	el de twitter quedo afuera de los ""
+11:00:30 De Lucas Hernan Blas-1032965 a Todos:
+	Gaby, en la maquetación siempre es ideal determinar esos tamaños de texto en relación a cantidad de caracteres? Pensaba que lo ajustabas en porcentajes de width adentro del elemento contenedore
+11:02:35 De Lucas Hernan Blas-1032965 a Todos:
+	Excelente
+11:14:18 De Rodrigo Cangas-1031313 a Todos:
+	Gaby entonces el ultimo de 25px deberíamos de poner mejor con algun calculo no?
+11:16:26 De Rodrigo Cangas-1031313 a Todos:
+	Si ya
+11:16:36 De Rodrigo Cangas-1031313 a Todos:
+	buenisimo
+11:35:04 De Rodrigo Cangas-1031313 a Todos:
+	Gaby olvide la diferencia entre px y pt
+11:44:53 De Rodrigo Cangas-1031313 a Todos:
+	en los ejercicios esta en pt
+11:45:04 De Rodrigo Cangas-1031313 a Todos:
+	a ok
+11:45:12 De Rodrigo Cangas-1031313 a Todos:
+	jejeje ok
+11:46:19 De Lucas Hernan Blas-1032965 a Todos:
+	Gaby, acá diseñador, lo de los grosores de las tipografías (100,200,500) es en base a (thin, regular, semibold, bold,black, como Arial black)
+11:46:49 De Lucas Hernan Blas-1032965 a Todos:
+	Jajajajaj lo aprendí hace poco asíque no puedo decir nada
+11:47:18 De Lucas Hernan Blas-1032965 a Todos:
+	😂😂😂
+11:58:22 De Rodrigo Cangas-1031313 a Todos:
+	todo muy bien
+11:59:49 De Rodrigo Cangas-1031313 a Todos:
+	Gaby los exámenes de los primer modulo ya los debemos hacer???
+12:00:38 De Mauricio Boetto-866796 a Todos:
+	Perfecto profee
+12:00:41 De Rodrigo Cangas-1031313 a Todos:
+	va
+12:01:06 De Carmela Mazars-1031617 a Todos:
+	Gracias iguallmente
+12:01:09 De Mauricio Boetto-866796 a Todos:
+	Gracias !!
+12:01:12 De Mauricio Boetto-866796 a Todos:
+	nos vemos !
+12:01:13 De Yanina Spinelli a Todos:
+	Gracias Gaby! buen finde
+12:01:15 De Mauricio Boetto-866796 a Todos:
+	Chau
+12:01:25 De Rodrigo Cangas-1031313 a Todos:
+	gracias
+12:01:28 De Lucas Hernan Blas-1032965 a Todos:
+	Nos vemos!
+12:02:14 De Instructor :: Gaby a Asistente Académica - Juana Paz(mensaje directo):
+	Muchas gracias Juana por el soporte!	Q tengas excelente resto de jornada

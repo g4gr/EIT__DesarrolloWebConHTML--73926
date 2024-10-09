@@ -7,6 +7,10 @@
 
     <title>Document</title>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="./styles.css" />
 
 
@@ -16,24 +20,29 @@
     <!-- Comienzo Header -->
     <header class="Header">
         <nav class="navbar">
-            <figure class="figure" height="150px" width="300px" >
+            <figure class="figure" height="150px" width="300px">
                 <img class="figure__img" height="125px" width="250px" src="./assets/logo.svg" alt="Logo de Sunnyside" />
             </figure>
             <menu class="menu">
                 <li class="menu__item">
-                    <a href="#" class="menu__item--link" >About</a>
+                    <a href="#URI--About" class="menu__item--link">About</a>
                 </li>
                 <li class="menu__item">
-                    <a href="#" class="menu__item--link" >Services</a>
+                    <a href="#URI--Services" class="menu__item--link">Services</a>
                 </li>
                 <li class="menu__item">
-                    <a href="#" class="menu__item--link" >Projects</a>
+                    <a href="#URI--Projects" class="menu__item--link">Projects</a>
                 </li>
                 <li class="menu__item">
-                    <a href="#" class="menu__item--link" >Contact</a>
+                    <a href="#URI--Contact" class="menu__item--link">Contact</a>
                 </li>
             </menu>
             <button class="button"></button>
+            <a href="mailto:gabygonzalezromero@gmail.com" class="contactMe" target="_blank">
+                <figure>
+                    <img src="./assets/i_envelope.svg.svg" alt="">
+                </figure>
+            </a>
         </nav>
         <div class="hero">
             <h1 class="hero__title">We are creatives</h1>
@@ -47,72 +56,82 @@
 
     <!-- Comienzo Main -->
     <main class="Main">
-        <section class="section">
-            <article class="article" >
-                <h2 class="article__title" >Transform your brand</h2>
-                <p class="article__paragraph" >We are a full-service creative agency specializing in helping brands grow fast. 
+        <!-- About -->
+        <section class="section" id="URI--About">
+            <article class="article">
+                <h2 class="article__title">Transform your brand</h2>
+                <p class="article__paragraph">We are a full-service creative agency specializing in helping brands grow
+                    fast.
                     Engage your clients through compelling visuals that do most of the marketing for you.</p>
-                <a href="#" class="article__link" >Learn more</a>
+                <a href="#" class="article__link">Learn more</a>
             </article>
-            <figure class="figure" >
+            <figure class="figure">
                 <img src="./assets/desktop/image-transform.jpg" alt="Imagen de transform" />
             </figure>
         </section>
         <section class="section">
-            <figure class="figure" >
+            <figure class="figure">
                 <img src="./assets/desktop/image-stand-out.jpg" alt="Imagen de transform" />
             </figure>
-            <article class="article" >
-                <h2 class="article__title" >Stand out to the right audience</h2>
-                <p class="article__paragraph" >Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters, we’ll build and extend your brand in digital places.</p>
-                <a href="#" class="article__link" >Learn more</a>
+            <article class="article">
+                <h2 class="article__title">Stand out to the right audience</h2>
+                <p class="article__paragraph">Using a collaborative formula of designers, researchers, photographers,
+                    videographers, and copywriters, we’ll build and extend your brand in digital places.</p>
+                <a href="#" class="article__link">Learn more</a>
             </article>
         </section>
-        <section class="section">
-            <article class="article" >
-                <figure class="figure" >
+        <!-- Services -->
+        <section class="section" id="URI--Services">
+            <article class="article">
+                <figure class="figure">
                     <img src="./assets/desktop/image-graphic-design.jpg" alt="Imagen de transform" />
                 </figure>
-                <h2 class="article__title" >Graphic design</h2>
-                <p class="article__paragraph" >Great design makes you memorable. We deliver artwork that underscores your brand message and captures potential clients’ attention.</p>
+                <h2 class="article__title">Graphic design</h2>
+                <p class="article__paragraph">Great design makes you memorable. We deliver artwork that underscores your
+                    brand message and captures potential clients’ attention.</p>
             </article>
-            <article class="article" >
-                <figure class="figure" >
+            <article class="article">
+                <figure class="figure">
                     <img src="./assets/desktop/image-photography.jpg" alt="Imagen de transform" />
                 </figure>
-                <h2 class="article__title" >Photography</h2>
-                <p class="article__paragraph" >Increase your credibility by getting the most stunning, high-quality photos that improve your business image.</p>
+                <h2 class="article__title">Photography</h2>
+                <p class="article__paragraph">Increase your credibility by getting the most stunning, high-quality
+                    photos that improve your business image.</p>
             </article>
         </section>
-        <section class="section">
-            <article class="article" >
-                <header class="header" >
-                    <h2 class="article__title" >Client testimonials</h2>
+        <!-- Proyects -->
+        <section class="section" id="URI--Projects">
+            <article class="article">
+                <header class="header">
+                    <h2 class="article__title">Client testimonials</h2>
                 </header>
-                <main class="main" >
-                    <article class="article" >
-                        <figure class="figure" >
+                <main class="main">
+                    <article class="article">
+                        <figure class="figure">
                             <img src="./assets/image-emily.jpg" alt="Imagen de transform" />
                         </figure>
-                        <p class="article__paragraph" >We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.</p>
-                        <h3 class="article__title" >Emily R.</h3>
-                        <p class="article__paragraph" >Marketing Director</p>
+                        <p class="article__paragraph">We put our trust in Sunnyside and they delivered, making sure our
+                            needs were met and deadlines were always hit.</p>
+                        <h3 class="article__title">Emily R.</h3>
+                        <p class="article__paragraph">Marketing Director</p>
                     </article>
-                    <article class="article" >
-                        <figure class="figure" >
+                    <article class="article">
+                        <figure class="figure">
                             <img src="./assets/image-thomas.jpg" alt="Imagen de transform" />
                         </figure>
-                        <p class="article__paragraph" >Sunnyside’s enthusiasm coupled with their keen interest in our brand’s success made it a satisfying and enjoyable experience.</p>
-                        <h3 class="article__title" >Thomas S.</h3>
-                        <p class="article__paragraph" >Chief Operating Officer</p>
+                        <p class="article__paragraph">Sunnyside’s enthusiasm coupled with their keen interest in our
+                            brand’s success made it a satisfying and enjoyable experience.</p>
+                        <h3 class="article__title">Thomas S.</h3>
+                        <p class="article__paragraph">Chief Operating Officer</p>
                     </article>
-                    <article class="article" >
-                        <figure class="figure" >
+                    <article class="article">
+                        <figure class="figure">
                             <img src="./assets/image-jennie.jpg" alt="Imagen de transform" />
                         </figure>
-                        <p class="article__paragraph" >Incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!</p>
-                        <h3 class="article__title" >Jennie F.</h3>
-                        <p class="article__paragraph" >Business Owner</p>
+                        <p class="article__paragraph">Incredible end result! Our sales increased over 400% when we
+                            worked with Sunnyside. Highly recommended!</p>
+                        <h3 class="article__title">Jennie F.</h3>
+                        <p class="article__paragraph">Business Owner</p>
                     </article>
                 </main>
                 <footer>
@@ -130,7 +149,8 @@
 
     <!-- Comienzo Footer -->
     <footer class="Footer">
-        <section class="section">
+        <!-- Contact -->
+        <section class="section" id="URI--Contact">
             <article class="article">
                 <figure class="logo">
                     <img src="./assets/logo.svg" alt="Logo de Sunnyside" />
@@ -138,7 +158,7 @@
             </article>
         </section>
         <section class="section">
-            <article class="article" >
+            <article class="article">
                 <ul class="menu">
                     <li class="menu__item">
                         <a href="#" class="menu__item--link">About</a>
@@ -154,34 +174,34 @@
             <article class="article">
                 <ul class="menu">
                     <li class="menu__item">
-                        <a href="#" class="menu__item--link">
+                        <a href="https://www.facebook.com/" class="menu__item--link" target="_blank">
                             <figure>
                                 <img src="./assets/icon-facebook.svg" alt="">
                             </figure>
                         </a>
                     </li>
                     <li class="menu__item">
-                        <a href="#" class="menu__item--link">
+                        <a href="https://www.instagram.com/" class="menu__item--link" target="_blank">
                             <figure>
                                 <img src="./assets/icon-instagram.svg" alt="">
                             </figure>
                         </a>
                     </li>
                     <li class="menu__item">
-                        <a href="#" class="menu__item--link">
+                        <a href="https://www.twitter.com/" class="menu__item--link" target="_blank">
                             <figure>
                                 <img src="./assets/icon-twitter.svg" alt="">
                             </figure>
                         </a>
                     </li>
                     <li class="menu__item">
-                        <a href="#" class="menu__item--link">
+                        <a href="https://www.pinterest.com/" class="menu__item--link" target="_blank">
                             <figure>
                                 <img src="./assets/icon-pinterest.svg" alt="">
                             </figure>
                         </a>
                     </li>
-                    
+
             </article>
         </section>
     </footer>
