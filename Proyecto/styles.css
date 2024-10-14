@@ -1,5 +1,31 @@
 @charset "UTF-8";
 
+:root {
+    /* Layout */
+    --l_maxWidht : 1400px ;
+    --l_Header : 70vh ;
+    --l_Navbar : 72px ;
+    --l_Main : auto ;
+    --l_Footer : 250px ;
+
+    /* Fonts */
+    --f_fontSize : 16px ;
+    --f_lineHeight : 1.5 ;
+    --f_fontWeight : 400 ;
+    --f_fontStyle : normal ;
+    --f_fontFamily--Primary : "Roboto", sans-serif;
+    --f_fontFamily--Secundary : 'Open-Dyslexic', sans-serif;
+                                                
+
+    /* Colors */
+    --c_white : #FFF ;
+    --c_black : #000 ;
+    --c_grey100 : #d2d2d2 ; 
+    --c_cyan400 : #2EBFFF ;
+    --c_green600 : #03772f ;
+    --c_green200 : #90D4C5 ;
+
+}
 
 /* --- Reset --- */
 * {
@@ -14,7 +40,7 @@
 /* --- HTML --- */
 html {
     /* Tamaño de ROOT */
-    font-size: 16px;
+    font-size: var( --f_fontSize );
 }
 
 h1 { font-size: 1.25rem; }
@@ -31,33 +57,47 @@ h6 { font-size: 1rem ; }
 
 p, a {
     max-width: 58ch ;
-    text-align: left ;
+}
+
+img {
+	max-width : 100% ;
+	max-inline-size : 100% ;
+	block-size : auto ;
+	height : auto ;
+	object-fit : cover / contain ;
+	object-position : 50% 50% ;
 }
 
 
 /* --- Body --- */
 .Body {
     font-size : clamp( 100% , 1rem + .75vw , 25px ) ;
-    line-height: 1.5;
-    font-weight: 400;
-    font-style: normal;
-    font-family: "Roboto", sans-serif;
+    line-height: var( --f_lineHeight );
+    font-weight: var( --f_fontWeight );
+    font-style: var( --f_fontStyle );
+    font-family: var( --f_fontFamily--Primary );
 
-    max-width: 1400px;
+
+    max-width: var( --l_maxWidht );
     margin : 0 auto ;
 }
 
 /* --- Header --- */
 .Header {
-    height: 70vh;
+    height: var( --l_Header );
     
-    color: white ;
+    color: var( --c_white );
 
-    background-color: #2EBFFF;
+    background-color: var( --c_cyan400 ) ;
 }
 
 .Header .navbar {
-    height: 72px;
+    height: var( --l_Navbar );
+
+    display: flex ;
+    flex-direction: row ;
+    align-items: center ;
+    justify-content: space-between ;
 
 }
 
@@ -66,18 +106,29 @@ p, a {
 .Header .navbar .figure .figure__img {}
 
 .Header .navbar .menu {
+    display: flex ;
+    flex-direction: row ;
+    align-items: center ;
+    justify-content: center;
+    gap : 1rem ;
+
     list-style-type: none;
 }
 
 .Header .navbar .menu .menu__item {}
 
-.Header .navbar .menu .menu__item .menu__item--link {}
+.Header .navbar .menu .menu__item .menu__item--link {
+    color : white ;
+}
 
 .Header .contactMe {}
 
 .Header .button {}
 
 .Header .hero {
+    height: 100%;
+
+    text-align: center;
 }
 
 .Header .hero .hero__title {}
@@ -90,13 +141,81 @@ p, a {
 
 /* --- Main --- */
 .Main {
-    height: 200vh;
+    height: var( --l_Main );
+}
+
+.Main .section {
+    display: flex ;
+    flex-direction: row;
+}
+
+
+
+.Main .section:last-child {}
+
+.Main .section:last-child .article {}
+
+.Main .section:last-child .article .main {
+    display: flex ;
+}
+
+.Main .section:last-child .article .main .article {
+    text-align: center;
+}
+
+.Main .section:last-child .article .main .article .figure {}
+
+.Main .section:last-child .article .main .article .figure .figure__img {
+    border-radius: 50% ; 
+}
+
+
+.Main .section .article {}
+
+.Main .section .article .article__title {
+}
+
+.Main .section .article .article__link {
 }
 
 
 /* --- Footer --- */
 .Footer {
-    height: 250px;
+    height: var( --l_Footer );
 
-    background-color: #90D4C5;
+    background-color: var( --c_green200 ) ;
+}
+
+.Footer .section {
+    display: flex ;
+    flex-direction: column ;
+    align-items: center;
+    justify-content: center;
+}
+
+.Footer .section:first-child {
+    height: 50% ;
+} 
+
+.Footer .section:last-child {
+    height: 50% ;
+}
+
+.Footer .section:last-child .article {}
+
+.Footer .section:last-child .article .menu {
+    display: flex;
+    flex-direction: row ;
+    align-items: center ;
+    justify-content: center ;
+    gap : 2rem ;
+
+    list-style-type: none;
+}
+
+.Footer .section:last-child .article .menu .menu__item {}
+
+.Footer .section:last-child .article .menu ,.menu__item .menu__item--link {
+    color : var( --c_green600 ) ;
+    text-decoration: none;
 }
